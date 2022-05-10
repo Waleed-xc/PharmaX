@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168732264065",
+    "project_id": "pharmax-cfd0f",
+    "storage_bucket": "pharmax-cfd0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168732264065:android:408a87e0e490aaea5c2f80",
+        "android_client_info": {
+          "package_name": "com.example.signfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168732264065-prshah9hsf5fba8i20jkl80pkchqasj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhf5yXqKPE8OqtWKN-9uUmmCh1UYH-4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168732264065-prshah9hsf5fba8i20jkl80pkchqasj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
