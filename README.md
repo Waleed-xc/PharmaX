@@ -1,4 +1,4 @@
-# signfun
+# PharmaX
 
 A new Flutter project.
 
